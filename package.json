@@ -49,7 +49,7 @@
     "gulp-cli": "^1.2.2",
     "gulp-concat": "^2.6.1",
     "gulp-connect": "^5.0.0",
-    "gulp-express": "^0.3.5",
+    "gulp-live-server": "^0.0.31",
     "gulp-rename": "^1.2.2",
     "gulp-sourcemaps": "^2.4.1",
     "gulp-tap": "^0.1.3",
